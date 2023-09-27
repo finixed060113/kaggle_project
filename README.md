@@ -10,6 +10,8 @@ Durante el EDA, se llevaron a cabo procesos de limpieza y exploración de datos 
 
 En la etapa de ajuste de modelo, se eligió un algoritmo adecuado y se realizaron preprocesamientos de datos específicos para construir un modelo de regresión capaz de predecir los precios de los diamantes con precisión. El modelo se evaluó utilizando métricas de evaluación de regresión y se realizaron ajustes iterativos para mejorar su rendimiento.
 
+El mejor modelo son los notebooks 'eda1' y 'eda_test1', ajustados en el notebook 'modelo1'.
+
 Variables:
 
 -id: only for test & sample submission files, id for prediction sample identification
