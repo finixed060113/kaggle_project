@@ -60,7 +60,9 @@ Estas decisiones se tomaron después de un análisis cuidadoso de los datos y se
 
 En esta sección, se presentan los resultados clave del modelo de Árbol de Decisión II que se ajustó para predecir el precio de los diamantes en función de sus características. Estas métricas proporcionan una evaluación del rendimiento del modelo en los conjuntos de prueba y entrenamiento:
 
-![MODELO]("https://github.com/finixed060113/kaggle_project/blob/main/images/modelo.png")
+<p align="center">
+  <img src="https://github.com/finixed060113/kaggle_project/blob/main/images/modelo.png" alt="Modelo">
+</p>
 
 MAE (Error Absoluto Medio):
 
