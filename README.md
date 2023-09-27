@@ -36,6 +36,10 @@ Variables:
 
 ## EDA (Análisis Exploratorio de Datos)
 
+<p align="center">
+  <img src="https://github.com/finixed060113/kaggle_project/blob/main/images/data.png" alt="EDA">
+</p>
+
 Limpieza de datos (manejo de valores faltantes, duplicados, etc.).
 Resumen estadístico de las variables.
 Visualización de datos (gráficos, histogramas, diagramas de dispersión, etc.).
